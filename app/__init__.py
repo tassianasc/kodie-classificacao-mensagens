@@ -1,0 +1,1 @@
+"""Pacote da API de classificacao de mensagens com IA."""
